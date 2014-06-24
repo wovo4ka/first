@@ -71,5 +71,5 @@ class User
 */
 
 $user = new User;
-echo $user->setName('rfrfddd');
+echo $user->setName('rfr45fddd1');
 ?>
